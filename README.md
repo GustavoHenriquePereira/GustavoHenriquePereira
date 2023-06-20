@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá meu nome é Gustavo, bem vindo ao meu perfil 🙂
 
-<!--
 **GustavoHenriquePereira/GustavoHenriquePereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Metas 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- _Programador de jogos e apps_ 🎮
+- _Milhonario aos_ 25 💰
+- _Liberdade financeira ate os 16_ 💸
+- _Felicidade ao meu pai_ 👨‍👦
+
+### *Mais sobre mim*:
+
+- _Gosto de jogos_ 🎮
+- _Leio livros principalmente de ficção_ 📖
+- _Filmes de ficção me agradam_ 🎥
+- _Andar de bicicleta me traz uma sensação de liberdade_ ☁️
+
+- ![](https://media.tenor.com/riAbGdAhpIYAAAAC/lo-fi-hip-hop.gif)
