@@ -7,7 +7,7 @@
 - _Programador de jogos e apps_ 🎮
 - _Milhonario aos_ 25 💰
 - _Liberdade financeira ate os 16_ 💸
-- _Felicidade ao meu pai_ 👨‍👦
+- _Felicidades ao meu pai_ 👨‍👦
 
 ### *Mais sobre mim*:
 
@@ -15,5 +15,11 @@
 - _Leio livros principalmente de ficção_ 📖
 - _Filmes de ficção me agradam_ 🎥
 - _Andar de bicicleta me traz uma sensação de liberdade_ ☁️
+
+### Cursos em Andamento
+
+- Inglês 📘
+- Programação 🖥️
+- [Alura](https://www.alura.com.br)  💻
 
 - ![](https://media.tenor.com/riAbGdAhpIYAAAAC/lo-fi-hip-hop.gif)
